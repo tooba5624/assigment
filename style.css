@@ -1,0 +1,40 @@
+img {
+    width: 30px;
+    height: 30px;
+}
+
+.panda {
+    color: deeppink;
+}
+
+/* 
+button {
+    margin-left: 50%;
+} */
+
+p {
+    margin-left: 80%;
+}
+
+
+nav {
+    display: flex;
+    height: 30px;
+    align-items: center;
+
+}
+
+.login {
+    margin: 10px;
+}
+
+.signup {
+    margin: 20px;
+}
+
+select {
+    margin: 10px;
+}
+.two{display: flex;
+margin: 10px;}
+a{margin: 20px;}
